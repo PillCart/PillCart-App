@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700720290565",
+    "project_id": "pillcart-final",
+    "storage_bucket": "pillcart-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700720290565:android:b83f5025c8ef39fd07756c",
+        "android_client_info": {
+          "package_name": "com.example.pill_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxTzjhx4-ceH-7S94TQMQLdTVg1dy9Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700720290565:android:883a7c9e0ade3fd507756c",
+        "android_client_info": {
+          "package_name": "com.example.pillcart_website"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxTzjhx4-ceH-7S94TQMQLdTVg1dy9Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
